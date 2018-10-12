@@ -32,7 +32,11 @@ def page_count=(num)
   def genre
     @genre
   end
-end 
+
+
+
+
+ 
 
 
 
